@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem 'jekyll', ' 3.10.0'
 gem 'webrick'
 gem 'jekyll-postcss'
