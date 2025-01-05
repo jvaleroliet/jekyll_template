@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+require 'rubygems'
+require 'json'
 
 gem 'jekyll'
 gem 'webrick'
