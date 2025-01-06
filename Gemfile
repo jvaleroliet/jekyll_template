@@ -1,6 +1,11 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-gem 'jekyll', ' 3.10.0'
+source "https://rubygems.org"
+require 'rubygems'
+require 'json'
+
+# gem "rails"
+gem 'jekyll'
 gem 'webrick'
 gem 'jekyll-postcss'
 gem "kramdown-parser-gfm"

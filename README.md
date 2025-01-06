@@ -1,7 +1,7 @@
-# Template for Jekyll + Tailwind css + Github Pages
+# nofutureberlin
+Webpage for No Future Berlin
 
-Based on 
 
-https://mzrn.sh/2022/04/09/starting-a-blank-jekyll-site-with-tailwind-css-in-2022/
-
-https://mzrn.sh/2023/10/26/how-to-use-tailwind-css-with-jekyll-on-github-pages/
+SHOP: Bandcamp, 
+LISTEN: SOUNDCLOUD , de listen podria salir : ''premieres'', ''mixes'', ''music releases'', ''compilations'' como esas subdvisiones me hacen sentido, 
+EVENTS  y ABOUT/ NOFUTURES UNIVERSE. 
