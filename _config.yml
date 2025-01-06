@@ -18,7 +18,6 @@ picture:
 
 
 collections:
-  releases:
-    output: true
+
   dates:
     output: true

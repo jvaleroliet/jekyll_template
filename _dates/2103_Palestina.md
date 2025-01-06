@@ -1,7 +1,7 @@
 ---
 layout: default 
-event: Palestine Fundraiser
+event: La Boheme
 date: 11 Mar 2025
-location: Riwaq, Berlin
-link: http://ohmberlin.com/
+location: La Scala, Milan
+link: http://google.com/
 ---

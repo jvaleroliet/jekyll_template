@@ -18,6 +18,10 @@
   src: url("../fonts/Karrik-Regular.ttf");
 }
 
+@font-face {
+  font-family: "monsieur";
+  src: url("../fonts/MonsieurLaDoulaise-Regular.ttf");
+}
 
 @keyframes rotate
   {
@@ -36,14 +40,14 @@
     animation-play-state: paused;
   }
 
-  .bg-pink-600.flex.justify-between.sticky.top-0.py-2.px-4.kanit-extrabold.text-3xl.text-base1 a{
+  .bg-pink-600.flex.justify-between.sticky.top-0.py-2.px-4.karrik.text-3xl.text-base1 a{
     color:  black;
-    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+    background: grey;
     background-clip: text;
     -webkit-background-clip: text;
   }
   
-  .bg-pink-600.flex.justify-between.sticky.top-0.py-2.px-4.kanit-extrabold.text-3xl.text-base1 a:hover {
+  .bg-pink-600.flex.justify-between.sticky.top-0.py-2.px-4.karrik.text-3xl.text-base1 a:hover {
     color: transparent;
     transition: 500ms ease;
   }
@@ -52,14 +56,14 @@
     animation: spin 3s linear infinite; 
   }
   
-  .flex.justify-between.sticky.top-0.py-2.px-4.bg-white.kanit-extrabold.text-3xl.text-base1 a{
+  .flex.justify-between.sticky.top-0.py-2.px-4.bg-white.karrik.text-3xl.text-base1 a{
     color:  black;
-    background: linear-gradient(90deg, red, orange, yellow, green, blue, purple);
+    background: grey;
     background-clip: text;
     -webkit-background-clip: text;
   }
   
-  .flex.justify-between.sticky.top-0.py-2.px-4.bg-white.kanit-extrabold.text-3xl.text-base1 a:hover {
+  .flex.justify-between.sticky.top-0.py-2.px-4.bg-white.karrik.text-3xl.text-base1 a:hover {
     color: transparent;
     transition: 500ms ease;
   }

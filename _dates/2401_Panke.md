@@ -1,7 +1,7 @@
 ---
 layout: default 
-event: Mediterranean Wildfire 1
+event: Winterreise
 date: 22 Jan 2025
-location: Panke Culture, Berlin
-link: https://www.pankeculture.com/
+location: Philharmonie, Berlin
+link: https://www.google.com/
 ---

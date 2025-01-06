@@ -6,9 +6,8 @@ permalink: dates
 
 {% assign sortedPosts = site.dates | sort: 'date' | reverse %}
 {% for date in sortedPosts %}
-  <div class="border-t-[2px] border-black flex flex-wrap justify-between  py-4 px-4 md:px-4 font-karrik">
+  <div class="border-t-[2px] border-black flex flex-wrap justify-between  py-4 px-4 md:px-4 font-sans">
     <div class="flex items-center w-full md:w-auto">
-      <span class="text-4xl font-bold mr-8">✰</span>
       <a href="{{ date.link }}" target="_blank" class="flex flex-col gap-2 hover:text-pink-500">
         <div class="text-4xl leading-none overflow-hidden z-1">
           {{ date.event }}

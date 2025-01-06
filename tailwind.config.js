@@ -19,6 +19,8 @@ module.exports = {
           },
           fontFamily: {
             'karrik' : ['karrik', 'sans-serif'],  
+            'monsieur' : ['monsieur', 'sans-serif'],  
+
           }
         },
     },
