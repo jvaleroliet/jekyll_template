@@ -169,7 +169,6 @@ DEPENDENCIES
   jekyll
   jekyll-postcss
   jekyll_picture_tag (~> 2.0)
-  kramdown-parser-gfm
   webrick
 
 BUNDLED WITH

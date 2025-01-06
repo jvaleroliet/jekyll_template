@@ -5,7 +5,6 @@ require 'json'
 gem 'jekyll'
 gem 'webrick'
 gem 'jekyll-postcss'
-gem "kramdown-parser-gfm"
 
 
 group :jekyll_plugins do
